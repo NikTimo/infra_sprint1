@@ -1,0 +1,5 @@
+IP: 158.160.27.157;
+name_taski: https://taskitest.ddns.net/;
+name_kittygram: https://kittygram-test.ddnsking.com/;
+login: admin;
+password: 9978440; 
